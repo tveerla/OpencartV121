@@ -1,0 +1,32 @@
+2024-09-10 11:34:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\tveerla\eclipse-workspace\OpencartV121\Master.xml
+
+2024-09-10 11:34:42 INFO  TC002_LoginTest:19 - **********Starting TC002_LoginTest**********
+2024-09-10 11:37:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\tveerla\eclipse-workspace\OpencartV121\Master.xml
+
+2024-09-10 11:37:34 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:37:35 INFO  TC_003_LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2024-09-10 11:37:35 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:37:37 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:37:38 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:40:39 INFO  TC_003_LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2024-09-10 11:40:39 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:42:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\tveerla\eclipse-workspace\OpencartV121\Master.xml
+
+2024-09-10 11:42:58 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:45:58 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:48:58 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:49:28 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:49:28 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:55:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\tveerla\eclipse-workspace\OpencartV121\Master.xml
+
+2024-09-10 11:55:23 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:55:24 INFO  TC_003_LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2024-09-10 11:55:24 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:55:26 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:55:27 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2024-09-10 11:58:28 INFO  TC_003_LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2024-09-10 11:58:28 INFO  TC_003_LoginDDT:27 - **** Starting TC_003_LoginDDT *****
